@@ -1,6 +1,8 @@
 from PyQt5.QtCore import Qt
 from PyQt5.QtGui import QColor
-from PyQt5.QtWidgets import *
+from PyQt5.QtWidgets import QWidget, QPushButton, QListWidget
+from PyQt5.QtWidgets import QAbstractItemView, QTextBrowser, QLabel
+from PyQt5.QtWidgets import QHBoxLayout, QVBoxLayout, QFileDialog
 from PIL import Image
 import os
 

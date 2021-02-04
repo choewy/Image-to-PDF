@@ -1,6 +1,6 @@
 from PyQt5.QtGui import QIcon
 from PyQt5.QtGui import QColor
-from PyQt5.QtWidgets import *
+from PyQt5.QtWidgets import QMainWindow
 from src.ui.widget import Widget
 
 
